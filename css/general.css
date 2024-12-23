@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: solid blue ; */
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: "Inter", serif;
+    color: #191826;    
+    width: 144rem;
+
+}
+
+.margin-btm{
+    margin-bottom: 4rem;
+}
+.icon{
+    width: 2.4rem;
+    height: 2.4rem;
+}
